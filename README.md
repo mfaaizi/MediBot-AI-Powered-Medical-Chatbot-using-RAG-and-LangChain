@@ -1,6 +1,7 @@
 🩺 MediBot – AI-Powered Medical Chatbot using RAG and LangChain
 
 MediBot is a medical question-answering chatbot that leverages Retrieval-Augmented Generation (RAG) to provide precise, context-aware answers to user queries. It uses LangChain, FAISS for vector storage, Hugging Face for LLM integration, and Streamlit for an intuitive web interface.
+By using the RAG and the Langchain, and FAISS for vector storage it is much more campatible and much more capable of generating and predicting the right answer for the user according to its usecase.
 
 🚀 Features
 
