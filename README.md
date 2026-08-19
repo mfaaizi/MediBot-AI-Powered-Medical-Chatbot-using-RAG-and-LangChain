@@ -83,7 +83,7 @@ Final AI Response
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 Medibot/
@@ -104,7 +104,7 @@ Medibot/
 
 ---
 
-# ⚙️ How It Works
+#  How It Works
 
 ### 1. Document Processing
 
@@ -128,7 +128,7 @@ The retrieved context is provided to a Hugging Face language model, which genera
 
 ---
 
-# 🚀 Installation
+#  Installation
 
 ## Clone the Repository
 
@@ -176,7 +176,7 @@ The application will launch in your browser.
 
 ---
 
-# 📌 Project Workflow
+#  Project Workflow
 
 1. Load medical documents.
 2. Generate embeddings.
@@ -189,8 +189,7 @@ The application will launch in your browser.
 
 ---
 
-# 💡 Use Cases
-
+#  Use Cases
 - Medical education
 - Healthcare research
 - Medical document exploration
@@ -198,7 +197,7 @@ The application will launch in your browser.
 - LangChain learning projects
 - Semantic search applications
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 - Conversation memory
 - Voice input
@@ -213,7 +212,7 @@ The application will launch in your browser.
 
 ---
 
-# ⚠️ Disclaimer
+#  Disclaimer
 
 This project is intended solely for educational and research purposes.
 
@@ -223,7 +222,7 @@ Always consult a qualified healthcare provider for professional medical advice.
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Faaiz Imtiaz**
 
