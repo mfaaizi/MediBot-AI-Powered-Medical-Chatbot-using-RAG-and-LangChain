@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🩺 MediBot
+#  MediBot
 ### AI-Powered Medical Chatbot using Retrieval-Augmented Generation (RAG)
 
 *Delivering context-aware and reliable medical information using LangChain, FAISS, and Hugging Face.*
@@ -15,7 +15,7 @@
 
 ---
 
-# 📖 Overview
+#  Overview
 
 **MediBot** is an AI-powered medical question-answering chatbot built using **Retrieval-Augmented Generation (RAG)**. Instead of relying solely on a language model's internal knowledge, MediBot retrieves relevant information from a medical knowledge base before generating responses, resulting in more accurate, reliable, and context-aware answers.
 
@@ -25,21 +25,21 @@ The application combines **LangChain**, **FAISS**, **Sentence Transformers**, an
 
 ---
 
-# ✨ Features
+#  Features
 
-- 🩺 AI-powered medical question answering
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🔍 Semantic document retrieval using FAISS
-- 🤗 Hugging Face language model integration
-- 🧠 SentenceTransformer embeddings
-- ⚡ LangChain RetrievalQA pipeline
-- 🎯 Custom prompt engineering for accurate responses
-- 💻 Clean and interactive Streamlit interface
-- 📄 Supports custom medical knowledge bases
+-  AI-powered medical question answering
+-  Retrieval-Augmented Generation (RAG)
+-  Semantic document retrieval using FAISS
+-  Hugging Face language model integration
+-  SentenceTransformer embeddings
+-  LangChain RetrievalQA pipeline
+-  Custom prompt engineering for accurate responses
+-  Clean and interactive Streamlit interface
+-  Supports custom medical knowledge bases
 
 ---
 
-# 🏗️ System Architecture
+#  System Architecture
 
 ```
 Medical Documents
